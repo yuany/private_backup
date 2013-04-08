@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="jar:file:/Users/ligang.yao/Downloads/collabode.etherpad_1.2.0.201203211629.jar!/" selected="true" name="collabode"/>
+   <site url="http://dist.springsource.org/release/GRECLIPSE/e4.2/" selected="true" name="groovy"/>
+   <site url="http://java.decompiler.free.fr/jd-eclipse/update" selected="true" name="jd"/>
+   <site url="jar:file:/Users/ligang.yao/Downloads/jdeclipse_update_site.zip!/" selected="true" name="jd.jar"/>
+   <site url="http://download.eclipse.org/releases/juno" selected="true" name="Juno"/>
+   <site url="http://download.eclipse.org/technology/m2e/releases" selected="true" name="m2eclipse"/>
+   <site url="http://m2eclipse.sonatype.org/sites/m2e" selected="true" name="m2eo"/>
+   <site url="http://mchr3k-eclipse.appspot.com/" selected="true" name="mchr3k"/>
+   <site url="http://subclipse.tigris.org/update_1.8.x" selected="true" name="subclipse"/>
+</bookmarks>
